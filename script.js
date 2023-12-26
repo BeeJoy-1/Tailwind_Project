@@ -2,7 +2,6 @@ tailwind.config = {
     theme: {
       extend: {
         colors: {
-          clifford: '#da373d',
           primary: '#FFD2A4',
         },
         maxWidth: {
