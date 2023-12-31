@@ -3,6 +3,7 @@ tailwind.config = {
       extend: {
         colors: {
           primary: '#FFD2A4',
+          news: 'rgba(255, 255, 255, 0.15)',
         },
         maxWidth: {
             'container': '1280px',
